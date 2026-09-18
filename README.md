@@ -19,7 +19,7 @@ _Create two deployment workflows using GitHub Actions and Microsoft Azure._
   Define terms and link to docs.github.com.
 -->
 
-## Step 4: Deploy to a staging environment based on labels
+## Step 4: Deploy to a staging environment based on labelsa
 
 _Nicely done, you used a workflow to spin up your Azure environment :dancer:_
 
